@@ -27,5 +27,6 @@ Atualmente, estou em transição para a área de tecnologia, buscando novas opor
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Mari97anna)
 
 #Git Stats
-[!Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mari97anna&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
 

@@ -26,7 +26,7 @@ Atualmente, estou em transição para a área de tecnologia, buscando novas opor
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianna-ribeiro-duarte-silva-348b3a311/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Mari97anna)
 
-#Métricas
+### Métricas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mari97anna&show_icons=true&theme=radical)
 
 
